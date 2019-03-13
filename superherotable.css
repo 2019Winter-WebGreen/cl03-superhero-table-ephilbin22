@@ -1,0 +1,23 @@
+/*
+* Emma Philbin
+* 15 March 2019
+* HTML Super Hero Table
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+
+}
+table, td, th {border: 1px solid blue;}
+
+table {border-collapse: collapse;}
+
+thead {background-color: palegreen;}
+tfoot {background-color: mediumpurple;}
